@@ -17,7 +17,7 @@
 > 10. Covert grouped data back to data frame (`as.data.frame`).
 > 11. Write the table to analysisData.txt.
 
-> Resulting Data Set Format: Subject Number, Activity Type, Feature, mean of all results for the subject/activity pair for that feature.
+> Resulting Data Set Variables: Subject Number, Activity Type, Feature, mean of all results for the subject/activity pair for that feature.
 
 ## UCI Dataset Files Referenced ##
 > - activity_labels.txt
